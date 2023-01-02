@@ -29,3 +29,19 @@
 .small {
   font-size: 0.75rem;
 }
+
+input {
+  padding: 10px;
+  width: 90%;
+  height: 80px;
+  font-size: 170%;
+  text-align: center;
+}
+
+.result {
+  font-size:200%;
+}
+
+.result.error {
+  color: red;
+}
